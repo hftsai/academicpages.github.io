@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Paul Hsieh-Fu Tsai's Peronsal pages"
+title                    : "Radi@gnosics Peronsal pages"
 title_separator          : "-"
 name                     : &name "Paul Hsieh-Fu Tsai"
 description              : &description "personal description"
@@ -79,8 +79,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Hsieh-Fu Tsai"
+  avatar           : "profile.jpg"
   bio              : "Biointerface researcher"
   location         : "Okinawa Japan"
   employer         :
